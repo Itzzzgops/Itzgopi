@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gops
+- 👋 Hi, I’m @gopi
 - 👀 I’m interested in ...Fullstack web development
 - 🌱 I’m currently learning ...frontend
 - 📫 reach me via email-gopiraj418@gmail.com
